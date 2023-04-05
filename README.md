@@ -5,10 +5,3 @@ a simple rgb color picker website
 Folow me on github ["https://github.com/syntaxMORG0"](url)
 
 feel free to use my code but credit me in `README.md`
- 
-you can explore the files
->src {
-   `index.html`
-   `style.css`
-   `script.js`
-}
