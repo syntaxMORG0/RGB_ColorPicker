@@ -1,7 +1,14 @@
 # RGB_ColorPicker
 a simple rgb color picker website
 
-Feel free to use the code but credit me
+>Welcome to my repo and project!
+Folow me on github ["https://github.com/syntaxMORG0"](url)
 
-follow me on github
-@syntaxMORG0
+feel free to use my code but credit me in `README.md`
+ 
+you can explore the files
+>src {
+   `index.html`
+   `style.css`
+   `script.js`
+}
