@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>RGB ColorPicker | github</title>
+        <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+    </head>
+    <body>
+        <div class="container">
+            <h2 style="font-size: medium;" class="top-text">RGB color picker!</h2><br>
+            <div class="border">
+                <p style="font-size: 10px;">Remember! all int values can't go past 255</p>
+                <div class="inputs">
+                    <input type="number" placeholder="R" min="0" max="255"/>
+                    <input type="number" placeholder="G" min="0" max="255"/>
+                    <input type="number" placeholder="B" min="0" max="255"/>
+                </div>
+            </div><br>
+            <div class="final-color"></div><br>
+            <button id="Profile"><ion-icon name="logo-github"></ion-icon>@syntaxMORG0</button><br><br>
+            <button id="Source"><ion-icon name="logo-github"></ion-icon>Source!</button>
+        </div>
+        <script src="script.js"></script>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    </body>
+</html>
