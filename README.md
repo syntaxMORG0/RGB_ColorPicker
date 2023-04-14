@@ -1,7 +1,10 @@
 # RGB_ColorPicker
-a simple rgb color picker website
+This i a project that i made
+Please Folow me on github [github.com/syntaxMORG0](url)
 
->Welcome to my repo and project!
-Folow me on github ["https://github.com/syntaxMORG0"](url)
+# Updates and bugfixes Q/A
+Im gonna update this app semi frequment.
+Adding more usage to the site.
 
-feel free to use my code but credit me in `README.md`
+# Logging
+When you convert your RGB color to a hex it wil record it
