@@ -30,7 +30,7 @@ button {
 
 .container {
   width: 250px;
-  height: 300px;
+  height: 320px;
   background-color: rgba(255, 255, 255, 0.108);
   border-radius: 10px;
   margin-left: auto;
@@ -81,4 +81,10 @@ button {
     color: #6666ff;
     border-color: #6666ff;
   }
+}
+
+.keyboard {
+  height: 150px;
+  width: 210px;
+  background-color: rgba(0, 0, 0, 0.491);
 }
