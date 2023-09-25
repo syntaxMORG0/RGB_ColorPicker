@@ -78,7 +78,7 @@ button {
   background-color: rgba(255, 255, 255, 0.108);
   border-radius: 10px;
   position: absolute;
-  top: 5%;
+  top: 10%;
   left: 50%; /* Center horizontally */
   margin: auto;
   text-align: center;
@@ -92,7 +92,7 @@ button {
   background-color: rgba(255, 255, 255, 0.108);
   border-radius: 10px;
   position: absolute;
-  top: 5%;
+  top: 10%;
   left: 30%; /* Center horizontally */
   margin: auto;
   text-align: center;
@@ -106,10 +106,72 @@ button {
   background-color: rgba(255, 255, 255, 0.108);
   border-radius: 10px;
   position: absolute;
-  top: 5%;
+  top: 10%;
   left: 70%; /* Center horizontally */
   margin: auto;
   text-align: center;
   animation: colorRotate 6s linear 0s infinite;
   transform: translateX(-50%); /* Center horizontally */
+}
+
+.header {
+  width: auto;
+  right: 90%;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.108);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  animation: colorRotate 6s linear 0s infinite;
+}
+
+.button-login {
+  width: 80px;
+}
+
+.button-signup {
+  width: 80px;
+}
+
+.login {
+  position: absolute;
+  left: 0;
+}
+
+.header-title {
+  position: absolute;
+  right: 0;
+}
+
+.repo {
+  position: absolute;
+  right: 730px;
+}
+
+.project1 {
+  width: 130px;
+}
+
+.project2 {
+  width:  130px;
+}
+
+.project3 {
+  width: 130px;
+}
+
+.repo {
+  position: absolute;
+  right: 710px;
+}
+
+.colab {
+  position: absolute;
+  right: 350px;
+}
+.aa {
+  width: 150px;
+}
+.bb {
+  width: 150px;
 }

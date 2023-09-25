@@ -37,6 +37,11 @@ Source.addEventListener("click", function() {
   window.location.href = "https://github.com/syntaxMORG0/RGB_ColorPicker";
 });
 
+const syntaxMORG0 = document.getElementById("aa");
+Source.addEventListener("click", function() {
+  window.location.href = "https://github.com/syntaxMORG0";
+});
+
 saveAsHexButton.addEventListener("click", function() {
   const redValue = redInput.value;
   const greenValue = greenInput.value;
